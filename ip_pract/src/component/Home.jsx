@@ -48,7 +48,7 @@ const Home = () => {
         <Container>
             <Title>Welcome to the Career Counseling Blog</Title>
             <Subtitle>Here you will find helpful articles and resources to guide you in your career journey.</Subtitle>
-            <img src='https://bcdn.mindler.com/bloglive/wp-content/uploads/2021/06/15133900/5-professional-challenges-faced-by-career-counsellors_blog-.png' alt='Image' height={'300px'} width={'300px'} style={{ display: 'block', margin: 'auto' }}></img>
+            <img src='https://bcdn.mindler.com/bloglive/wp-content/uploads/2021/06/15133900/5-professional-challenges-faced-by-career-counsellors_blog-.png' alt='Image' height={'250px'} width={'250px'} style={{ display: 'block', margin: 'auto' }}></img>
             <LatestArticles>Latest Articles</LatestArticles>
             <ArticleList>
                 <ArticleListItem>
